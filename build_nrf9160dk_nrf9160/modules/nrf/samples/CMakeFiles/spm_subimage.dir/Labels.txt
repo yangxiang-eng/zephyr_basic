@@ -1,0 +1,13 @@
+# Target labels
+ spm_subimage
+# Source files and their labels
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/CMakeFiles/spm_subimage
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/CMakeFiles/spm_subimage.rule
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/CMakeFiles/spm_subimage-complete.rule
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-build.rule
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-configure.rule
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-download.rule
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-install.rule
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-mkdir.rule
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-patch.rule
+D:/SDK/ncs_v1.9.1/v1.9.1/zephyr/samples/basic/button/build_nrf9160dk_nrf9160/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-update.rule
